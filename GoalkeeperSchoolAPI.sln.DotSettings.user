@@ -1,0 +1,21 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0f788f3e_002Da851_002D447f_002Dabd2_002Df94fc1169c31/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GoalkeeperSchoolDBTests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::3706858C-A32B-4DCA-8560-E62938380638::net6.0::GoalkeeperSchoolDbTests.Testing.GoalkeeperSchoolDBTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3194abe4_002D6e5a_002D4801_002Da293_002D3357dd9a3a63/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GoalkeeperSchoolDBTests #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::3706858C-A32B-4DCA-8560-E62938380638::net6.0::GoalkeeperSchoolDbTests.Testing.GoalkeeperSchoolDBTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6c987fdf_002D31e5_002D476f_002Dbfca_002D1daf7cd844aa/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GoalkeeperSchoolDBTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::3706858C-A32B-4DCA-8560-E62938380638::net6.0::GoalkeeperSchoolDbTests.Testing.GoalkeeperSchoolDBTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e7010572_002Dccf8_002D481e_002Daf90_002Db09e99bffb73/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetAllAccountReturnAllAddedAccounts" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::3706858C-A32B-4DCA-8560-E62938380638::net6.0::GoalkeeperSchoolDbTests.Testing.GoalkeeperSchoolDBTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

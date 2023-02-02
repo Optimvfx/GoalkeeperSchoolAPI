@@ -1,0 +1,14 @@
+D:\lesons\C# LEARNIG PROJECTS\C# Dot Net\ASP Net Core Basics\GoalkeeperSchoolAPI\GoalkeeperSchoolDataAcess\bin\Debug\net6.0\GoalkeeperSchoolDataAcess.deps.json
+D:\lesons\C# LEARNIG PROJECTS\C# Dot Net\ASP Net Core Basics\GoalkeeperSchoolAPI\GoalkeeperSchoolDataAcess\bin\Debug\net6.0\GoalkeeperSchoolDataAcess.runtimeconfig.json
+D:\lesons\C# LEARNIG PROJECTS\C# Dot Net\ASP Net Core Basics\GoalkeeperSchoolAPI\GoalkeeperSchoolDataAcess\bin\Debug\net6.0\GoalkeeperSchoolDataAcess.dll
+D:\lesons\C# LEARNIG PROJECTS\C# Dot Net\ASP Net Core Basics\GoalkeeperSchoolAPI\GoalkeeperSchoolDataAcess\bin\Debug\net6.0\GoalkeeperSchoolDataAcess.pdb
+D:\lesons\C# LEARNIG PROJECTS\C# Dot Net\ASP Net Core Basics\GoalkeeperSchoolAPI\GoalkeeperSchoolDataAcess\obj\Debug\net6.0\GoalkeeperSchoolDataAcess.csproj.AssemblyReference.cache
+D:\lesons\C# LEARNIG PROJECTS\C# Dot Net\ASP Net Core Basics\GoalkeeperSchoolAPI\GoalkeeperSchoolDataAcess\obj\Debug\net6.0\GoalkeeperSchoolDataAcess.GeneratedMSBuildEditorConfig.editorconfig
+D:\lesons\C# LEARNIG PROJECTS\C# Dot Net\ASP Net Core Basics\GoalkeeperSchoolAPI\GoalkeeperSchoolDataAcess\obj\Debug\net6.0\GoalkeeperSchoolDataAcess.AssemblyInfoInputs.cache
+D:\lesons\C# LEARNIG PROJECTS\C# Dot Net\ASP Net Core Basics\GoalkeeperSchoolAPI\GoalkeeperSchoolDataAcess\obj\Debug\net6.0\GoalkeeperSchoolDataAcess.AssemblyInfo.cs
+D:\lesons\C# LEARNIG PROJECTS\C# Dot Net\ASP Net Core Basics\GoalkeeperSchoolAPI\GoalkeeperSchoolDataAcess\obj\Debug\net6.0\GoalkeeperSchoolDataAcess.csproj.CoreCompileInputs.cache
+D:\lesons\C# LEARNIG PROJECTS\C# Dot Net\ASP Net Core Basics\GoalkeeperSchoolAPI\GoalkeeperSchoolDataAcess\obj\Debug\net6.0\GoalkeeperSchoolDataAcess.dll
+D:\lesons\C# LEARNIG PROJECTS\C# Dot Net\ASP Net Core Basics\GoalkeeperSchoolAPI\GoalkeeperSchoolDataAcess\obj\Debug\net6.0\refint\GoalkeeperSchoolDataAcess.dll
+D:\lesons\C# LEARNIG PROJECTS\C# Dot Net\ASP Net Core Basics\GoalkeeperSchoolAPI\GoalkeeperSchoolDataAcess\obj\Debug\net6.0\GoalkeeperSchoolDataAcess.pdb
+D:\lesons\C# LEARNIG PROJECTS\C# Dot Net\ASP Net Core Basics\GoalkeeperSchoolAPI\GoalkeeperSchoolDataAcess\obj\Debug\net6.0\GoalkeeperSchoolDataAcess.genruntimeconfig.cache
+D:\lesons\C# LEARNIG PROJECTS\C# Dot Net\ASP Net Core Basics\GoalkeeperSchoolAPI\GoalkeeperSchoolDataAcess\obj\Debug\net6.0\ref\GoalkeeperSchoolDataAcess.dll

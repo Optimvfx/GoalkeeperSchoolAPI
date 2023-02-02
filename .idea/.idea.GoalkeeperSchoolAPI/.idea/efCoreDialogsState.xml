@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EfCoreDialogsState">
+    <option name="keyValueStorage">
+      <map>
+        <entry key="Common:487632f0-9ae7-477b-8006-16dd5e9829b0:dbContext" value="GoalkeeperSchoolDataAcess.DataAcess.Controlers.GoalkeeperSchoolDBControler" />
+        <entry key="Common:528a998b-c36c-4972-ad34-88117b3a6f50:dbContext" value="GoalkeeperSchoolDataAcess.DataAcess.Controlers.GoalkeeperSchoolDBControler" />
+        <entry key="Common:buildConfiguration" value="Debug" />
+        <entry key="Common:noBuild" value="false" />
+        <entry key="Common:outputFolder" value="Migrations" />
+        <entry key="Common:targetFramework" value="net7.0" />
+        <entry key="Common:useDefaultConnection" value="true" />
+      </map>
+    </option>
+  </component>
+</project>

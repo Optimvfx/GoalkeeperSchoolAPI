@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoalkeeperSchoolAPI", "GoalkeeperSchoolAPI\GoalkeeperSchoolAPI.csproj", "{528A998B-C36C-4972-AD34-88117B3A6F50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoalkeeperSchoolDataAcess", "GoalkeeperSchoolDataAcess\GoalkeeperSchoolDataAcess.csproj", "{487632F0-9AE7-477B-8006-16DD5E9829B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{7A600DDA-266F-486D-83EF-E46AA69C196D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoalkeeperSchoolDbTests", "GoalkeeperSchoolDbTests\GoalkeeperSchoolDbTests.csproj", "{3706858C-A32B-4DCA-8560-E62938380638}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{528A998B-C36C-4972-AD34-88117B3A6F50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{528A998B-C36C-4972-AD34-88117B3A6F50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{528A998B-C36C-4972-AD34-88117B3A6F50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{528A998B-C36C-4972-AD34-88117B3A6F50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{487632F0-9AE7-477B-8006-16DD5E9829B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{487632F0-9AE7-477B-8006-16DD5E9829B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{487632F0-9AE7-477B-8006-16DD5E9829B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{487632F0-9AE7-477B-8006-16DD5E9829B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A600DDA-266F-486D-83EF-E46AA69C196D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A600DDA-266F-486D-83EF-E46AA69C196D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A600DDA-266F-486D-83EF-E46AA69C196D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A600DDA-266F-486D-83EF-E46AA69C196D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3706858C-A32B-4DCA-8560-E62938380638}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3706858C-A32B-4DCA-8560-E62938380638}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3706858C-A32B-4DCA-8560-E62938380638}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3706858C-A32B-4DCA-8560-E62938380638}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
